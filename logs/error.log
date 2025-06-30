@@ -1,0 +1,378 @@
+[28-Jun-2025 13:45:19 Asia/Jakarta] PHP Fatal error:  Call to undefined function fetchAll() in C:\xampp\htdocs\kampusprojek\index.php on line 9
+
+[28-Jun-2025 13:54:23 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '?' in C:\xampp\htdocs\kampusprojek\config\session.php on line 36
+
+[28-Jun-2025 13:54:24 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '?' in C:\xampp\htdocs\kampusprojek\config\session.php on line 36
+
+[28-Jun-2025 13:54:24 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '?' in C:\xampp\htdocs\kampusprojek\config\session.php on line 36
+
+[28-Jun-2025 15:47:33 Asia/Jakarta] PHP Warning:  Constants may only evaluate to scalar values in C:\xampp\htdocs\kampusprojek\kampusprojek\config\config.php on line 40
+
+[28-Jun-2025 15:47:33 Asia/Jakarta] PHP Warning:  Constants may only evaluate to scalar values in C:\xampp\htdocs\kampusprojek\kampusprojek\config\config.php on line 41
+
+[28-Jun-2025 15:47:33 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '?' in C:\xampp\htdocs\kampusprojek\kampusprojek\config\database.php on line 231
+
+[28-Jun-2025 15:47:35 Asia/Jakarta] PHP Warning:  Constants may only evaluate to scalar values in C:\xampp\htdocs\kampusprojek\kampusprojek\config\config.php on line 40
+
+[28-Jun-2025 15:47:35 Asia/Jakarta] PHP Warning:  Constants may only evaluate to scalar values in C:\xampp\htdocs\kampusprojek\kampusprojek\config\config.php on line 41
+
+[28-Jun-2025 15:47:35 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '?' in C:\xampp\htdocs\kampusprojek\kampusprojek\config\database.php on line 231
+
+[28-Jun-2025 15:47:35 Asia/Jakarta] PHP Warning:  Constants may only evaluate to scalar values in C:\xampp\htdocs\kampusprojek\kampusprojek\config\config.php on line 40
+
+[28-Jun-2025 15:47:35 Asia/Jakarta] PHP Warning:  Constants may only evaluate to scalar values in C:\xampp\htdocs\kampusprojek\kampusprojek\config\config.php on line 41
+
+[28-Jun-2025 15:47:35 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '?' in C:\xampp\htdocs\kampusprojek\kampusprojek\config\database.php on line 231
+
+[28-Jun-2025 15:47:36 Asia/Jakarta] PHP Warning:  Constants may only evaluate to scalar values in C:\xampp\htdocs\kampusprojek\kampusprojek\config\config.php on line 40
+
+[28-Jun-2025 15:47:36 Asia/Jakarta] PHP Warning:  Constants may only evaluate to scalar values in C:\xampp\htdocs\kampusprojek\kampusprojek\config\config.php on line 41
+
+[28-Jun-2025 15:47:36 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '?' in C:\xampp\htdocs\kampusprojek\kampusprojek\config\database.php on line 231
+
+[28-Jun-2025 15:47:36 Asia/Jakarta] PHP Warning:  Constants may only evaluate to scalar values in C:\xampp\htdocs\kampusprojek\kampusprojek\config\config.php on line 40
+
+[28-Jun-2025 15:47:36 Asia/Jakarta] PHP Warning:  Constants may only evaluate to scalar values in C:\xampp\htdocs\kampusprojek\kampusprojek\config\config.php on line 41
+
+[28-Jun-2025 15:47:36 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '?' in C:\xampp\htdocs\kampusprojek\kampusprojek\config\database.php on line 231
+
+[28-Jun-2025 15:47:36 Asia/Jakarta] PHP Warning:  Constants may only evaluate to scalar values in C:\xampp\htdocs\kampusprojek\kampusprojek\config\config.php on line 40
+
+[28-Jun-2025 15:47:36 Asia/Jakarta] PHP Warning:  Constants may only evaluate to scalar values in C:\xampp\htdocs\kampusprojek\kampusprojek\config\config.php on line 41
+
+[28-Jun-2025 15:47:36 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '?' in C:\xampp\htdocs\kampusprojek\kampusprojek\config\database.php on line 231
+
+[28-Jun-2025 15:47:36 Asia/Jakarta] PHP Warning:  Constants may only evaluate to scalar values in C:\xampp\htdocs\kampusprojek\kampusprojek\config\config.php on line 40
+
+[28-Jun-2025 15:47:36 Asia/Jakarta] PHP Warning:  Constants may only evaluate to scalar values in C:\xampp\htdocs\kampusprojek\kampusprojek\config\config.php on line 41
+
+[28-Jun-2025 15:47:36 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '?' in C:\xampp\htdocs\kampusprojek\kampusprojek\config\database.php on line 231
+
+[28-Jun-2025 15:47:36 Asia/Jakarta] PHP Warning:  Constants may only evaluate to scalar values in C:\xampp\htdocs\kampusprojek\kampusprojek\config\config.php on line 40
+
+[28-Jun-2025 15:47:36 Asia/Jakarta] PHP Warning:  Constants may only evaluate to scalar values in C:\xampp\htdocs\kampusprojek\kampusprojek\config\config.php on line 41
+
+[28-Jun-2025 15:47:36 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '?' in C:\xampp\htdocs\kampusprojek\kampusprojek\config\database.php on line 231
+
+[28-Jun-2025 15:47:37 Asia/Jakarta] PHP Warning:  Constants may only evaluate to scalar values in C:\xampp\htdocs\kampusprojek\kampusprojek\config\config.php on line 40
+
+[28-Jun-2025 15:47:37 Asia/Jakarta] PHP Warning:  Constants may only evaluate to scalar values in C:\xampp\htdocs\kampusprojek\kampusprojek\config\config.php on line 41
+
+[28-Jun-2025 15:47:37 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '?' in C:\xampp\htdocs\kampusprojek\kampusprojek\config\database.php on line 231
+
+[28-Jun-2025 15:47:38 Asia/Jakarta] PHP Warning:  Constants may only evaluate to scalar values in C:\xampp\htdocs\kampusprojek\kampusprojek\config\config.php on line 40
+
+[28-Jun-2025 15:47:38 Asia/Jakarta] PHP Warning:  Constants may only evaluate to scalar values in C:\xampp\htdocs\kampusprojek\kampusprojek\config\config.php on line 41
+
+[28-Jun-2025 15:47:38 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '?' in C:\xampp\htdocs\kampusprojek\kampusprojek\config\database.php on line 231
+
+[28-Jun-2025 15:47:38 Asia/Jakarta] PHP Warning:  Constants may only evaluate to scalar values in C:\xampp\htdocs\kampusprojek\kampusprojek\config\config.php on line 40
+
+[28-Jun-2025 15:47:38 Asia/Jakarta] PHP Warning:  Constants may only evaluate to scalar values in C:\xampp\htdocs\kampusprojek\kampusprojek\config\config.php on line 41
+
+[28-Jun-2025 15:47:38 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '?' in C:\xampp\htdocs\kampusprojek\kampusprojek\config\database.php on line 231
+
+[28-Jun-2025 15:47:38 Asia/Jakarta] PHP Warning:  Constants may only evaluate to scalar values in C:\xampp\htdocs\kampusprojek\kampusprojek\config\config.php on line 40
+
+[28-Jun-2025 15:47:38 Asia/Jakarta] PHP Warning:  Constants may only evaluate to scalar values in C:\xampp\htdocs\kampusprojek\kampusprojek\config\config.php on line 41
+
+[28-Jun-2025 15:47:38 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '?' in C:\xampp\htdocs\kampusprojek\kampusprojek\config\database.php on line 231
+
+[28-Jun-2025 15:47:38 Asia/Jakarta] PHP Warning:  Constants may only evaluate to scalar values in C:\xampp\htdocs\kampusprojek\kampusprojek\config\config.php on line 40
+
+[28-Jun-2025 15:47:38 Asia/Jakarta] PHP Warning:  Constants may only evaluate to scalar values in C:\xampp\htdocs\kampusprojek\kampusprojek\config\config.php on line 41
+
+[28-Jun-2025 15:47:38 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '?' in C:\xampp\htdocs\kampusprojek\kampusprojek\config\database.php on line 231
+
+[28-Jun-2025 15:50:08 Asia/Jakarta] PHP Warning:  Constants may only evaluate to scalar values in C:\xampp\htdocs\kampusprojek\kampusprojek\config\config.php on line 40
+
+[28-Jun-2025 15:50:08 Asia/Jakarta] PHP Warning:  Constants may only evaluate to scalar values in C:\xampp\htdocs\kampusprojek\kampusprojek\config\config.php on line 41
+
+[28-Jun-2025 15:50:08 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '?' in C:\xampp\htdocs\kampusprojek\kampusprojek\config\session.php on line 64
+
+[28-Jun-2025 15:50:09 Asia/Jakarta] PHP Warning:  Constants may only evaluate to scalar values in C:\xampp\htdocs\kampusprojek\kampusprojek\config\config.php on line 40
+
+[28-Jun-2025 15:50:09 Asia/Jakarta] PHP Warning:  Constants may only evaluate to scalar values in C:\xampp\htdocs\kampusprojek\kampusprojek\config\config.php on line 41
+
+[28-Jun-2025 15:50:09 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '?' in C:\xampp\htdocs\kampusprojek\kampusprojek\config\session.php on line 64
+
+[28-Jun-2025 15:54:03 Asia/Jakarta] PHP Warning:  Constants may only evaluate to scalar values in C:\xampp\htdocs\kampusprojek\kampusprojek\config\config.php on line 40
+
+[28-Jun-2025 15:54:03 Asia/Jakarta] PHP Warning:  Constants may only evaluate to scalar values in C:\xampp\htdocs\kampusprojek\kampusprojek\config\config.php on line 41
+
+[28-Jun-2025 15:54:03 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '?' in C:\xampp\htdocs\kampusprojek\kampusprojek\includes\functions.php on line 285
+
+[28-Jun-2025 15:54:03 Asia/Jakarta] PHP Warning:  Constants may only evaluate to scalar values in C:\xampp\htdocs\kampusprojek\kampusprojek\config\config.php on line 40
+
+[28-Jun-2025 15:54:03 Asia/Jakarta] PHP Warning:  Constants may only evaluate to scalar values in C:\xampp\htdocs\kampusprojek\kampusprojek\config\config.php on line 41
+
+[28-Jun-2025 15:54:04 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '?' in C:\xampp\htdocs\kampusprojek\kampusprojek\includes\functions.php on line 285
+
+[28-Jun-2025 15:54:04 Asia/Jakarta] PHP Warning:  Constants may only evaluate to scalar values in C:\xampp\htdocs\kampusprojek\kampusprojek\config\config.php on line 40
+
+[28-Jun-2025 15:54:04 Asia/Jakarta] PHP Warning:  Constants may only evaluate to scalar values in C:\xampp\htdocs\kampusprojek\kampusprojek\config\config.php on line 41
+
+[28-Jun-2025 15:54:04 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '?' in C:\xampp\htdocs\kampusprojek\kampusprojek\includes\functions.php on line 285
+
+[28-Jun-2025 15:54:04 Asia/Jakarta] PHP Warning:  Constants may only evaluate to scalar values in C:\xampp\htdocs\kampusprojek\kampusprojek\config\config.php on line 40
+
+[28-Jun-2025 15:54:04 Asia/Jakarta] PHP Warning:  Constants may only evaluate to scalar values in C:\xampp\htdocs\kampusprojek\kampusprojek\config\config.php on line 41
+
+[28-Jun-2025 15:54:04 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '?' in C:\xampp\htdocs\kampusprojek\kampusprojek\includes\functions.php on line 285
+
+[28-Jun-2025 15:54:04 Asia/Jakarta] PHP Warning:  Constants may only evaluate to scalar values in C:\xampp\htdocs\kampusprojek\kampusprojek\config\config.php on line 40
+
+[28-Jun-2025 15:54:04 Asia/Jakarta] PHP Warning:  Constants may only evaluate to scalar values in C:\xampp\htdocs\kampusprojek\kampusprojek\config\config.php on line 41
+
+[28-Jun-2025 15:54:04 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '?' in C:\xampp\htdocs\kampusprojek\kampusprojek\includes\functions.php on line 285
+
+[28-Jun-2025 15:54:04 Asia/Jakarta] PHP Warning:  Constants may only evaluate to scalar values in C:\xampp\htdocs\kampusprojek\kampusprojek\config\config.php on line 40
+
+[28-Jun-2025 15:54:04 Asia/Jakarta] PHP Warning:  Constants may only evaluate to scalar values in C:\xampp\htdocs\kampusprojek\kampusprojek\config\config.php on line 41
+
+[28-Jun-2025 15:54:04 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '?' in C:\xampp\htdocs\kampusprojek\kampusprojek\includes\functions.php on line 285
+
+[28-Jun-2025 15:54:04 Asia/Jakarta] PHP Warning:  Constants may only evaluate to scalar values in C:\xampp\htdocs\kampusprojek\kampusprojek\config\config.php on line 40
+
+[28-Jun-2025 15:54:04 Asia/Jakarta] PHP Warning:  Constants may only evaluate to scalar values in C:\xampp\htdocs\kampusprojek\kampusprojek\config\config.php on line 41
+
+[28-Jun-2025 15:54:04 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '?' in C:\xampp\htdocs\kampusprojek\kampusprojek\includes\functions.php on line 285
+
+[28-Jun-2025 15:54:04 Asia/Jakarta] PHP Warning:  Constants may only evaluate to scalar values in C:\xampp\htdocs\kampusprojek\kampusprojek\config\config.php on line 40
+
+[28-Jun-2025 15:54:04 Asia/Jakarta] PHP Warning:  Constants may only evaluate to scalar values in C:\xampp\htdocs\kampusprojek\kampusprojek\config\config.php on line 41
+
+[28-Jun-2025 15:54:04 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '?' in C:\xampp\htdocs\kampusprojek\kampusprojek\includes\functions.php on line 285
+
+[28-Jun-2025 15:54:04 Asia/Jakarta] PHP Warning:  Constants may only evaluate to scalar values in C:\xampp\htdocs\kampusprojek\kampusprojek\config\config.php on line 40
+
+[28-Jun-2025 15:54:04 Asia/Jakarta] PHP Warning:  Constants may only evaluate to scalar values in C:\xampp\htdocs\kampusprojek\kampusprojek\config\config.php on line 41
+
+[28-Jun-2025 15:54:04 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '?' in C:\xampp\htdocs\kampusprojek\kampusprojek\includes\functions.php on line 285
+
+[28-Jun-2025 15:56:09 Asia/Jakarta] PHP Warning:  Constants may only evaluate to scalar values in C:\xampp\htdocs\kampusprojek\kampusprojek\config\config.php on line 40
+
+[28-Jun-2025 15:56:09 Asia/Jakarta] PHP Warning:  Constants may only evaluate to scalar values in C:\xampp\htdocs\kampusprojek\kampusprojek\config\config.php on line 41
+
+[28-Jun-2025 15:56:09 Asia/Jakarta] PHP Fatal error:  Call to undefined function random_bytes() in C:\xampp\htdocs\kampusprojek\kampusprojek\includes\functions.php on line 56
+
+[28-Jun-2025 16:02:07 Asia/Jakarta] PHP Fatal error:  Call to undefined function getUserRole() in C:\xampp\htdocs\kampusprojek\kampusprojek\includes\footer.php on line 148
+
+[29-Jun-2025 09:21:21 Asia/Jakarta] DEBUG: authenticateUser called with Username: admin, Password (plain): password123
+
+[29-Jun-2025 09:21:21 Asia/Jakarta] DEBUG: User fetched from DB. User ID: 1, Stored Hash: $2y$10$92I... (truncated)
+
+[29-Jun-2025 09:21:21 Asia/Jakarta] DEBUG: Verifying password. Result of password_verify(): FALSE
+
+[29-Jun-2025 09:21:35 Asia/Jakarta] DEBUG: authenticateUser called with Username: admin, Password (plain): password123
+
+[29-Jun-2025 09:21:35 Asia/Jakarta] DEBUG: User fetched from DB. User ID: 1, Stored Hash: $2y$10$92I... (truncated)
+
+[29-Jun-2025 09:21:35 Asia/Jakarta] DEBUG: Verifying password. Result of password_verify(): FALSE
+
+[29-Jun-2025 09:26:08 Asia/Jakarta] DEBUG: authenticateUser called with Username: admin, Password (plain): admin123
+
+[29-Jun-2025 09:26:08 Asia/Jakarta] DEBUG: User fetched from DB. User ID: 1, Stored Hash: admin123... (truncated)
+
+[29-Jun-2025 09:26:08 Asia/Jakarta] DEBUG: Verifying password. Result of password_verify(): FALSE
+
+[29-Jun-2025 09:26:15 Asia/Jakarta] DEBUG: authenticateUser called with Username: admin, Password (plain): admin123
+
+[29-Jun-2025 09:26:15 Asia/Jakarta] DEBUG: User fetched from DB. User ID: 1, Stored Hash: admin123... (truncated)
+
+[29-Jun-2025 09:26:15 Asia/Jakarta] DEBUG: Verifying password. Result of password_verify(): FALSE
+
+[29-Jun-2025 09:31:54 Asia/Jakarta] DEBUG: authenticateUser called with Username: admin, Password (plain): admin123
+
+[29-Jun-2025 09:31:54 Asia/Jakarta] DEBUG: User fetched from DB. User ID: 1, Stored Hash: $2y$10$t9q... (truncated)
+
+[29-Jun-2025 09:31:54 Asia/Jakarta] DEBUG: Verifying password. Result of password_verify(): FALSE
+
+[29-Jun-2025 09:39:03 Asia/Jakarta] DEBUG-TEMP: Error during temporary admin password update: Database update failed
+
+[29-Jun-2025 09:39:03 Asia/Jakarta] DEBUG: authenticateUser called with Username: admin, Password (plain): admin123
+
+[29-Jun-2025 09:39:03 Asia/Jakarta] DEBUG: User fetched from DB. User ID: 1, Stored Hash: $2y$10$t9q... (truncated)
+
+[29-Jun-2025 09:39:04 Asia/Jakarta] DEBUG: Verifying password. Result of password_verify(): FALSE
+
+[29-Jun-2025 09:39:08 Asia/Jakarta] DEBUG-TEMP: Error during temporary admin password update: Database update failed
+
+[29-Jun-2025 09:39:08 Asia/Jakarta] DEBUG: authenticateUser called with Username: admin, Password (plain): admin123
+
+[29-Jun-2025 09:39:08 Asia/Jakarta] DEBUG: User fetched from DB. User ID: 1, Stored Hash: $2y$10$t9q... (truncated)
+
+[29-Jun-2025 09:39:08 Asia/Jakarta] DEBUG: Verifying password. Result of password_verify(): FALSE
+
+[29-Jun-2025 09:39:15 Asia/Jakarta] DEBUG-TEMP: Error during temporary admin password update: Database update failed
+
+[29-Jun-2025 09:39:15 Asia/Jakarta] DEBUG: authenticateUser called with Username: admin, Password (plain): admin123
+
+[29-Jun-2025 09:39:15 Asia/Jakarta] DEBUG: User fetched from DB. User ID: 1, Stored Hash: $2y$10$t9q... (truncated)
+
+[29-Jun-2025 09:39:15 Asia/Jakarta] DEBUG: Verifying password. Result of password_verify(): FALSE
+
+[29-Jun-2025 09:39:52 Asia/Jakarta] DEBUG-TEMP: Error during temporary admin password update: Database update failed
+
+[29-Jun-2025 09:39:52 Asia/Jakarta] DEBUG: authenticateUser called with Username: admin, Password (plain): admin123
+
+[29-Jun-2025 09:39:52 Asia/Jakarta] DEBUG: User fetched from DB. User ID: 1, Stored Hash: $2y$10$t9q... (truncated)
+
+[29-Jun-2025 09:39:52 Asia/Jakarta] DEBUG: Verifying password. Result of password_verify(): FALSE
+
+[29-Jun-2025 09:39:56 Asia/Jakarta] DEBUG-TEMP: Error during temporary admin password update: Database update failed
+
+[29-Jun-2025 09:39:56 Asia/Jakarta] DEBUG: authenticateUser called with Username: admin, Password (plain): admin123
+
+[29-Jun-2025 09:39:56 Asia/Jakarta] DEBUG: User fetched from DB. User ID: 1, Stored Hash: $2y$10$t9q... (truncated)
+
+[29-Jun-2025 09:39:56 Asia/Jakarta] DEBUG: Verifying password. Result of password_verify(): FALSE
+
+[29-Jun-2025 09:42:59 Asia/Jakarta] DEBUG-TEMP: Error during temporary admin password update: Database update failed
+
+[29-Jun-2025 09:42:59 Asia/Jakarta] DEBUG: authenticateUser called with Username: admin, Password (plain): admin123
+
+[29-Jun-2025 09:42:59 Asia/Jakarta] DEBUG: User fetched from DB. User ID: 1, Stored Hash: $2y$10$t9q... (truncated)
+
+[29-Jun-2025 09:42:59 Asia/Jakarta] DEBUG: Verifying password. Result of password_verify(): FALSE
+
+[29-Jun-2025 09:43:07 Asia/Jakarta] DEBUG-TEMP: Error during temporary admin password update: Database update failed
+
+[29-Jun-2025 09:43:07 Asia/Jakarta] DEBUG: authenticateUser called with Username: admin, Password (plain): admin123
+
+[29-Jun-2025 09:43:07 Asia/Jakarta] DEBUG: User fetched from DB. User ID: 1, Stored Hash: $2y$10$t9q... (truncated)
+
+[29-Jun-2025 09:43:07 Asia/Jakarta] DEBUG: Verifying password. Result of password_verify(): FALSE
+
+[29-Jun-2025 09:51:29 Asia/Jakarta] DEBUG-TEMP: New password: testlogin123
+
+[29-Jun-2025 09:51:29 Asia/Jakarta] DEBUG-TEMP: Generated hash: $2y$10$Xn/u3SO9X.RSMsiQt65TleR...
+
+[29-Jun-2025 09:51:29 Asia/Jakarta] DEBUG-TEMP: General Error during admin password update: Database update failed
+
+[29-Jun-2025 09:51:29 Asia/Jakarta] DEBUG: authenticateUser called with Username: admin, Password (plain): admin123
+
+[29-Jun-2025 09:51:29 Asia/Jakarta] DEBUG: User fetched from DB. User ID: 1, Stored Hash: $2y$10$t9q... (truncated)
+
+[29-Jun-2025 09:51:29 Asia/Jakarta] DEBUG: Verifying password. Result of password_verify(): FALSE
+
+[29-Jun-2025 09:51:29 Asia/Jakarta] DEBUG: Failed login attempt for username: admin
+
+[29-Jun-2025 09:51:36 Asia/Jakarta] DEBUG-TEMP: New password: testlogin123
+
+[29-Jun-2025 09:51:36 Asia/Jakarta] DEBUG-TEMP: Generated hash: $2y$10$pii5kLzlLwKE7rWs8xXI9Oz...
+
+[29-Jun-2025 09:51:36 Asia/Jakarta] DEBUG-TEMP: General Error during admin password update: Database update failed
+
+[29-Jun-2025 09:51:36 Asia/Jakarta] DEBUG: authenticateUser called with Username: admin, Password (plain): admin123
+
+[29-Jun-2025 09:51:36 Asia/Jakarta] DEBUG: User fetched from DB. User ID: 1, Stored Hash: $2y$10$t9q... (truncated)
+
+[29-Jun-2025 09:51:36 Asia/Jakarta] DEBUG: Verifying password. Result of password_verify(): FALSE
+
+[29-Jun-2025 09:51:36 Asia/Jakarta] DEBUG: Failed login attempt for username: admin
+
+[29-Jun-2025 09:52:20 Asia/Jakarta] DEBUG-TEMP: New password: testlogin123
+
+[29-Jun-2025 09:52:20 Asia/Jakarta] DEBUG-TEMP: Generated hash: $2y$10$M/Grg8Wr7xhXx0pu0ij0aep...
+
+[29-Jun-2025 09:52:20 Asia/Jakarta] DEBUG-TEMP: General Error during admin password update: Database update failed
+
+[29-Jun-2025 09:52:20 Asia/Jakarta] DEBUG: authenticateUser called with Username: admin, Password (plain): admin123
+
+[29-Jun-2025 09:52:20 Asia/Jakarta] DEBUG: User fetched from DB. User ID: 1, Stored Hash: $2y$10$t9q... (truncated)
+
+[29-Jun-2025 09:52:20 Asia/Jakarta] DEBUG: Verifying password. Result of password_verify(): FALSE
+
+[29-Jun-2025 09:52:20 Asia/Jakarta] DEBUG: Failed login attempt for username: admin
+
+[29-Jun-2025 09:52:37 Asia/Jakarta] DEBUG-TEMP: New password: testlogin123
+
+[29-Jun-2025 09:52:37 Asia/Jakarta] DEBUG-TEMP: Generated hash: $2y$10$NFQtTwVbdpghB7/p0FdXNe4...
+
+[29-Jun-2025 09:52:37 Asia/Jakarta] DEBUG-TEMP: General Error during admin password update: Database update failed
+
+[29-Jun-2025 09:52:37 Asia/Jakarta] DEBUG: authenticateUser called with Username: admin, Password (plain): testlogin123
+
+[29-Jun-2025 09:52:37 Asia/Jakarta] DEBUG: User fetched from DB. User ID: 1, Stored Hash: $2y$10$t9q... (truncated)
+
+[29-Jun-2025 09:52:37 Asia/Jakarta] DEBUG: Verifying password. Result of password_verify(): FALSE
+
+[29-Jun-2025 09:52:37 Asia/Jakarta] DEBUG: Failed login attempt for username: admin
+
+[29-Jun-2025 10:08:09 Asia/Jakarta] DEBUG-TEMP: Starting admin password reset process
+
+[29-Jun-2025 10:08:09 Asia/Jakarta] DEBUG-TEMP: Admin user found. ID: 1
+
+[29-Jun-2025 10:08:09 Asia/Jakarta] DEBUG-TEMP: Plain password: testlogin123
+
+[29-Jun-2025 10:08:09 Asia/Jakarta] DEBUG-TEMP: Generated hash: $2y$10$vfy0rlyjNUGt/K.o1iayO.PUt3Adv0OqALfhqjz4nj9bUH7GI.rmC
+
+[29-Jun-2025 10:08:09 Asia/Jakarta] DEBUG-TEMP: Hash verified successfully
+
+[29-Jun-2025 10:08:09 Asia/Jakarta] DEBUG-TEMP: Admin password updated successfully. Rows affected: 1
+
+[29-Jun-2025 10:08:09 Asia/Jakarta] DEBUG-TEMP: Stored hash after update: $2y$10$vfy0rlyjNUGt/K.o1iayO.PUt3Adv0OqALfhqjz4nj9...
+
+[29-Jun-2025 10:08:09 Asia/Jakarta] DEBUG-TEMP: Stored hash verification SUCCESS
+
+[29-Jun-2025 10:08:09 Asia/Jakarta] DEBUG: Authenticating user: admin
+
+[29-Jun-2025 10:08:09 Asia/Jakarta] DEBUG: User found. ID: 1
+
+[29-Jun-2025 10:08:09 Asia/Jakarta] DEBUG: Stored hash: $2y$10$vfy0rlyjNUGt/K.o1iayO.PUt3Adv0OqALfhqjz4nj9...
+
+[29-Jun-2025 10:08:09 Asia/Jakarta] DEBUG: Password verify result: FALSE
+
+[29-Jun-2025 10:08:09 Asia/Jakarta] DEBUG: Password verification failed for user: admin
+
+[29-Jun-2025 10:08:16 Asia/Jakarta] DEBUG-TEMP: Starting admin password reset process
+
+[29-Jun-2025 10:08:16 Asia/Jakarta] DEBUG-TEMP: Admin user found. ID: 1
+
+[29-Jun-2025 10:08:16 Asia/Jakarta] DEBUG-TEMP: Plain password: testlogin123
+
+[29-Jun-2025 10:08:16 Asia/Jakarta] DEBUG-TEMP: Generated hash: $2y$10$SJ8qPM0QTPgwY9nKqFDZB.7OvJd3lv.sxlF7gGZzn0BpaKx/lRIGy
+
+[29-Jun-2025 10:08:16 Asia/Jakarta] DEBUG-TEMP: Hash verified successfully
+
+[29-Jun-2025 10:08:16 Asia/Jakarta] DEBUG-TEMP: Admin password updated successfully. Rows affected: 1
+
+[29-Jun-2025 10:08:16 Asia/Jakarta] DEBUG-TEMP: Stored hash after update: $2y$10$SJ8qPM0QTPgwY9nKqFDZB.7OvJd3lv.sxlF7gGZzn0B...
+
+[29-Jun-2025 10:08:16 Asia/Jakarta] DEBUG-TEMP: Stored hash verification SUCCESS
+
+[29-Jun-2025 10:08:16 Asia/Jakarta] DEBUG: Authenticating user: admin
+
+[29-Jun-2025 10:08:16 Asia/Jakarta] DEBUG: User found. ID: 1
+
+[29-Jun-2025 10:08:16 Asia/Jakarta] DEBUG: Stored hash: $2y$10$SJ8qPM0QTPgwY9nKqFDZB.7OvJd3lv.sxlF7gGZzn0B...
+
+[29-Jun-2025 10:08:16 Asia/Jakarta] DEBUG: Password verify result: FALSE
+
+[29-Jun-2025 10:08:16 Asia/Jakarta] DEBUG: Password verification failed for user: admin
+
+[29-Jun-2025 10:08:41 Asia/Jakarta] DEBUG-TEMP: Starting admin password reset process
+
+[29-Jun-2025 10:08:41 Asia/Jakarta] DEBUG-TEMP: Admin user found. ID: 1
+
+[29-Jun-2025 10:08:41 Asia/Jakarta] DEBUG-TEMP: Plain password: testlogin123
+
+[29-Jun-2025 10:08:41 Asia/Jakarta] DEBUG-TEMP: Generated hash: $2y$10$JW9MpboLHZhElLbVSycaS.qr3mvmePRmVSKoJ96oTIshLZ.YhXm..
+
+[29-Jun-2025 11:36:02 Asia/Jakarta] DEBUG-TEMP: New password: testlogin123
+[29-Jun-2025 11:36:02 Asia/Jakarta] DEBUG-TEMP: Generated hash: $2y$10$KASGsNmrz82TmpCsySBhyuL...
+[29-Jun-2025 11:47:42 Asia/Jakarta] DEBUG-TEMP: New password: testlogin123
+[29-Jun-2025 11:47:42 Asia/Jakarta] DEBUG-TEMP: Generated hash: $2y$10$prNOfIBJRMa7x1.LVIZmWe9...
+[29-Jun-2025 11:55:08 Asia/Jakarta] DEBUG-TEMP: New password: testlogin123
+[29-Jun-2025 11:55:08 Asia/Jakarta] DEBUG-TEMP: Generated hash: $2y$10$cTiv/uYMj8HkSr3lTj4GTu5...
+[29-Jun-2025 11:55:08 Asia/Jakarta] DEBUG-TEMP: Admin password updated successfully
+[29-Jun-2025 11:55:17 Asia/Jakarta] DEBUG-TEMP: New password: testlogin123
+[29-Jun-2025 11:55:17 Asia/Jakarta] DEBUG-TEMP: Generated hash: $2y$10$ySf2VxkrhcfdChvdTzWLRez...
+[29-Jun-2025 11:55:17 Asia/Jakarta] DEBUG-TEMP: Admin password updated successfully
+[29-Jun-2025 11:55:17 Asia/Jakarta] DEBUG: authenticateUser called with Username: admin, Password (plain): testlogin123
+[29-Jun-2025 11:55:17 Asia/Jakarta] DEBUG: User fetched from DB. User ID: 1, Stored Hash: $2y$10$ySf... (truncated)
+[29-Jun-2025 11:55:17 Asia/Jakarta] DEBUG: Verifying password. Result of password_verify(): TRUE
+[29-Jun-2025 11:55:50 Asia/Jakarta] DEBUG-TEMP: New password: testlogin123
+[29-Jun-2025 11:55:50 Asia/Jakarta] DEBUG-TEMP: Generated hash: $2y$10$Ha9D3L9L.gkyL4g/cM1fFeU...
+[29-Jun-2025 11:55:50 Asia/Jakarta] DEBUG-TEMP: Admin password updated successfully
