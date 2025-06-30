@@ -1,0 +1,585 @@
+/* Dosen Dashboard Specific Styles */
+
+/* Layout */
+.dosen-layout {
+  min-height: 100vh;
+  background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+}
+
+.dosen-sidebar {
+  background: linear-gradient(180deg, #2c3e50 0%, #3498db 100%);
+  min-height: 100vh;
+  width: 280px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 1000;
+  transition: all 0.3s ease;
+  box-shadow: 2px 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.dosen-content {
+  margin-left: 280px;
+  padding: 2rem;
+  transition: all 0.3s ease;
+}
+
+/* Header */
+.dosen-header {
+  background: #fff;
+  border-radius: 15px;
+  padding: 1.5rem 2rem;
+  margin-bottom: 2rem;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.dosen-header h1 {
+  color: #2c3e50;
+  margin: 0;
+  font-weight: 600;
+}
+.dosen-header .header-actions {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+}
+.dosen-header .notification-bell {
+  position: relative;
+  background: #3498db;
+  color: #fff;
+  border: none;
+  border-radius: 50%;
+  width: 45px;
+  height: 45px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.3s ease;
+}
+.dosen-header .notification-bell:hover {
+  background: #2980b9;
+  transform: scale(1.05);
+}
+.dosen-header .notification-badge {
+  position: absolute;
+  top: -5px;
+  right: -5px;
+  background: #e74c3c;
+  color: #fff;
+  border-radius: 50%;
+  width: 20px;
+  height: 20px;
+  font-size: 0.7rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Dashboard Cards */
+.dosen-dashboard-card {
+  background: #fff;
+  border-radius: 15px;
+  padding: 2rem;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+  border: 1px solid #e9ecef;
+  transition: all 0.3s ease;
+  height: 100%;
+  position: relative;
+  overflow: hidden;
+}
+.dosen-dashboard-card::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 4px;
+  background: linear-gradient(90deg, #3498db, #2ecc71);
+}
+.dosen-dashboard-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.1);
+}
+.dosen-dashboard-card .card-icon {
+  width: 70px;
+  height: 70px;
+  border-radius: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.8rem;
+  margin-bottom: 1.5rem;
+  background: linear-gradient(135deg, #3498db, #2ecc71);
+  color: #fff;
+  box-shadow: 0 8px 24px rgba(52, 152, 219, 0.3);
+}
+.dosen-dashboard-card .card-title {
+  font-size: 1rem;
+  color: #7f8c8d;
+  margin-bottom: 0.5rem;
+  font-weight: 500;
+}
+.dosen-dashboard-card .card-value {
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: #2c3e50;
+  margin-bottom: 1rem;
+}
+.dosen-dashboard-card .card-description {
+  color: #95a5a6;
+  font-size: 0.9rem;
+  line-height: 1.5;
+}
+
+/* Quick Actions */
+.quick-actions {
+  background: #fff;
+  border-radius: 15px;
+  padding: 2rem;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+  margin-bottom: 2rem;
+}
+.quick-actions h3 {
+  color: #2c3e50;
+  margin-bottom: 1.5rem;
+  font-weight: 600;
+}
+.quick-actions-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1rem;
+}
+.quick-action-btn {
+  background: linear-gradient(135deg, #3498db, #2ecc71);
+  color: #fff;
+  border: none;
+  border-radius: 12px;
+  padding: 1.5rem;
+  text-decoration: none;
+  transition: all 0.3s ease;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+.quick-action-btn:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 8px 20px rgba(52, 152, 219, 0.3);
+  color: #fff;
+  text-decoration: none;
+}
+.quick-action-btn i {
+  font-size: 2rem;
+  margin-bottom: 0.5rem;
+}
+.quick-action-btn span {
+  font-weight: 500;
+  font-size: 0.9rem;
+}
+
+/* Schedule Table */
+.schedule-table {
+  background: #fff;
+  border-radius: 15px;
+  overflow: hidden;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+}
+.schedule-table .table-header {
+  background: linear-gradient(135deg, #3498db, #2ecc71);
+  color: #fff;
+  padding: 1.5rem 2rem;
+}
+.schedule-table .table-header h3 {
+  margin: 0;
+  font-weight: 600;
+}
+.schedule-table table {
+  margin: 0;
+}
+.schedule-table th {
+  background: #f8f9fa;
+  color: #2c3e50;
+  font-weight: 600;
+  padding: 1rem;
+  border: none;
+}
+.schedule-table td {
+  padding: 1rem;
+  border-bottom: 1px solid #e9ecef;
+  vertical-align: middle;
+}
+.schedule-table tbody tr:hover {
+  background: #f8f9fa;
+}
+.schedule-table .time-slot {
+  font-weight: 600;
+  color: #3498db;
+}
+.schedule-table .course-info {
+  font-weight: 500;
+  color: #2c3e50;
+}
+.schedule-table .room-info {
+  color: #7f8c8d;
+  font-size: 0.9rem;
+}
+
+/* Student List */
+.student-list {
+  background: #fff;
+  border-radius: 15px;
+  padding: 2rem;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+}
+.student-list h3 {
+  color: #2c3e50;
+  margin-bottom: 1.5rem;
+  font-weight: 600;
+}
+.student-item {
+  display: flex;
+  align-items: center;
+  padding: 1rem;
+  border-bottom: 1px solid #e9ecef;
+  transition: all 0.3s ease;
+}
+.student-item:hover {
+  background: #f8f9fa;
+  border-radius: 8px;
+}
+.student-item:last-child {
+  border-bottom: none;
+}
+.student-avatar {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background: linear-gradient(135deg, #3498db, #2ecc71);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+  font-weight: 600;
+  margin-right: 1rem;
+}
+.student-info h5 {
+  margin: 0;
+  color: #2c3e50;
+  font-weight: 500;
+}
+.student-info p {
+  margin: 0;
+  color: #7f8c8d;
+  font-size: 0.9rem;
+}
+
+/* Grade Input */
+.grade-input-section {
+  background: #fff;
+  border-radius: 15px;
+  padding: 2rem;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+  margin-bottom: 2rem;
+}
+.grade-input-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+.grade-input-table th, .grade-input-table td {
+  padding: 1rem;
+  text-align: center;
+  border-bottom: 1px solid #e9ecef;
+}
+.grade-input-table th {
+  background: #f8f9fa;
+  color: #2c3e50;
+  font-weight: 600;
+}
+.grade-input-table .grade-input {
+  width: 80px;
+  padding: 0.5rem;
+  border: 1px solid #ced4da;
+  border-radius: 6px;
+  text-align: center;
+}
+.grade-input-table .grade-input:focus {
+  border-color: #3498db;
+  box-shadow: 0 0 0 0.2rem rgba(52, 152, 219, 0.25);
+}
+.grade-display {
+  font-weight: 600;
+  padding: 0.5rem 1rem;
+  border-radius: 20px;
+  font-size: 0.9rem;
+}
+.grade-A {
+  background: #d4edda;
+  color: #155724;
+}
+.grade-B {
+  background: #cce7ff;
+  color: #004085;
+}
+.grade-C {
+  background: #fff3cd;
+  color: #856404;
+}
+.grade-D {
+  background: #f8d7da;
+  color: #721c24;
+}
+.grade-E {
+  background: #f8d7da;
+  color: #721c24;
+}
+
+/* Attendance */
+.attendance-section {
+  background: #fff;
+  border-radius: 15px;
+  padding: 2rem;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+}
+.attendance-controls {
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 2rem;
+  align-items: center;
+}
+.attendance-date {
+  padding: 0.75rem 1rem;
+  border: 1px solid #ced4da;
+  border-radius: 8px;
+}
+.attendance-session {
+  padding: 0.75rem 1rem;
+  border: 1px solid #ced4da;
+  border-radius: 8px;
+  min-width: 150px;
+}
+.attendance-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+.attendance-table th, .attendance-table td {
+  padding: 1rem;
+  text-align: left;
+  border-bottom: 1px solid #e9ecef;
+}
+.attendance-table th {
+  background: #f8f9fa;
+  color: #2c3e50;
+  font-weight: 600;
+}
+.attendance-status {
+  display: flex;
+  gap: 0.5rem;
+}
+.attendance-status input[type="radio"] {
+  margin-right: 0.25rem;
+}
+.attendance-status label {
+  font-size: 0.9rem;
+  cursor: pointer;
+}
+
+/* Profile Section */
+.dosen-profile {
+  background: #fff;
+  border-radius: 15px;
+  padding: 2rem;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+}
+.profile-header {
+  display: flex;
+  align-items: center;
+  margin-bottom: 2rem;
+  padding-bottom: 2rem;
+  border-bottom: 1px solid #e9ecef;
+}
+.profile-avatar {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  background: linear-gradient(135deg, #3498db, #2ecc71);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+  font-size: 3rem;
+  font-weight: 600;
+  margin-right: 2rem;
+}
+.profile-info h2 {
+  color: #2c3e50;
+  margin-bottom: 0.5rem;
+}
+.profile-info .nidn {
+  color: #7f8c8d;
+  font-size: 1.1rem;
+  margin-bottom: 0.5rem;
+}
+.profile-info .department {
+  color: #3498db;
+  font-weight: 500;
+}
+.profile-details {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 2rem;
+}
+.profile-section h4 {
+  color: #2c3e50;
+  margin-bottom: 1rem;
+  font-weight: 600;
+  border-bottom: 2px solid #3498db;
+  padding-bottom: 0.5rem;
+}
+.profile-item {
+  display: flex;
+  margin-bottom: 1rem;
+}
+.profile-item .label {
+  font-weight: 500;
+  color: #7f8c8d;
+  min-width: 120px;
+}
+.profile-item .value {
+  color: #2c3e50;
+}
+
+/* Statistics Cards */
+.stats-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1.5rem;
+  margin-bottom: 2rem;
+}
+.stat-card {
+  background: #fff;
+  border-radius: 15px;
+  padding: 2rem;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+}
+.stat-card::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 4px;
+  background: linear-gradient(90deg, #3498db, #2ecc71);
+}
+.stat-card .stat-icon {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  background: linear-gradient(135deg, #3498db, #2ecc71);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+  font-size: 1.5rem;
+  margin: 0 auto 1rem;
+}
+.stat-card .stat-number {
+  font-size: 2rem;
+  font-weight: 700;
+  color: #2c3e50;
+  margin-bottom: 0.5rem;
+}
+.stat-card .stat-label {
+  color: #7f8c8d;
+  font-size: 0.9rem;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .dosen-sidebar {
+    transform: translateX(-100%);
+    width: 280px;
+  }
+  .dosen-sidebar.show {
+    transform: translateX(0);
+  }
+  .dosen-content {
+    margin-left: 0;
+    padding: 1rem;
+  }
+  .dosen-header {
+    flex-direction: column;
+    gap: 1rem;
+    text-align: center;
+  }
+  .quick-actions-grid {
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  }
+  .profile-header {
+    flex-direction: column;
+    text-align: center;
+  }
+  .profile-avatar {
+    margin-right: 0;
+    margin-bottom: 1rem;
+  }
+  .grade-input-table {
+    font-size: 0.8rem;
+  }
+  .grade-input-table .grade-input {
+    width: 60px;
+  }
+  .attendance-controls {
+    flex-direction: column;
+    align-items: stretch;
+  }
+  .stats-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* Print Styles */
+@media print {
+  .dosen-sidebar, .quick-actions, .header-actions {
+    display: none !important;
+  }
+  .dosen-content {
+    margin-left: 0 !important;
+    padding: 0 !important;
+  }
+  .dosen-dashboard-card, .schedule-table, .grade-input-section {
+    box-shadow: none !important;
+    border: 1px solid #000 !important;
+  }
+}
+
+/* Dark Mode Support */
+@media (prefers-color-scheme: dark) {
+  .dosen-layout {
+    background: #1a1a1a;
+  }
+  .dosen-dashboard-card,
+  .quick-actions,
+  .schedule-table,
+  .student-list,
+  .grade-input-section,
+  .attendance-section,
+  .dosen-profile {
+    background: #2d2d2d;
+    color: #fff;
+    border-color: #404040;
+  }
+  .schedule-table th,
+  .grade-input-table th {
+    background: #404040;
+    color: #fff;
+  }
+  .student-item:hover,
+  .schedule-table tbody tr:hover {
+    background: #404040;
+  }
+}
